@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://igaeneitee.jasmine.ai/sitemap.xml
